@@ -16,25 +16,25 @@ const projects = [
   {
     id: uuidv4(),
     name: 'GtmHub',
-    desc: 'A Dashboard that is used track your daily data insights along with the facilities to store your money in wallets',
+    desc: 'A Dashboard that is used track your daily data insights along with the facilities to store your money in wallets(UI Design-Behance)',
     img: GtmHub,
   },
   {
     id: uuidv4(),
     name: 'DProtect',
-    desc: 'Using this app you can store diffrent information in decentralized way',
+    desc: 'Using this app you can store diffrent information in decentralized way(UI Design-Figma)',
     img: DProtect,
   },
   {
     id: uuidv4(),
     name: "Om's Portfolio",
-    desc: 'The portfolio is made using ReactJs, React Hooks and many more.',
+    desc: 'The portfolio is made using ReactJs, React Hooks and many more.(frontend)',
     img: CavinImg,
   },
   {
     id: uuidv4(),
     name: 'Hash Application',
-    desc: 'Hash functions, also known as hash algorithms, create digital fingerprints and signatures. A hash function maps arbitrary strings. It breaks it up. Developed by using React and its packages',
+    desc: 'Hash functions, also known as hash algorithms, create digital fingerprints and signatures. A hash function maps arbitrary strings. It breaks it up. Developed by using React and its packages-frontend',
     img: Hash,
   },
   // {
